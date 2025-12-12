@@ -71,7 +71,16 @@ It is **not production-ready** and **not intended for real-world financial use a
 
 ---
 
-## Design Philosophy
+## Cross-Platform PQ Wallets
+
+- Rust library Tauri
+- Windows, MacOS, Linux, iPhone and Android
+- Non-Custodial Wallet
+- Private Keys can optionaly be stored on regular USB-Sticks (Desktops: Windows, MacOS and Linux)
+
+---
+
+## Design Philosophy 
 
 - Security first
 - Minimal trusted computing base
